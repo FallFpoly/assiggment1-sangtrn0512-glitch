@@ -4,6 +4,8 @@
 
 package com.mycompany.assigment12;
 
+import java.util.Scanner;
+
 /**
  *
  * @author ICT
@@ -11,6 +13,6 @@ package com.mycompany.assigment12;
 public class Assigment12 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+
     }
 }
